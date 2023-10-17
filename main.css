@@ -1,0 +1,12 @@
+.courses{
+
+    background-color:bisque;
+    text-align: center;
+
+}
+.course{
+    display: inline-block;
+    width: 10%;
+    background-color: red;
+
+}
